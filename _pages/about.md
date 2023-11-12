@@ -27,9 +27,9 @@ Hi! I'm Zoran Gong!Currently, I am on the PhD programme in [EIT4SEMM](https://ph
 
 ## News
 
-* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS** 2023: [ProBio](https://nips.cc/virtual/2023/poster/73683)
-* **Aug 2023**: 1 Paper (First Author) Accepted by **IEEE Sensors Journal**: [FecNet](https://ieeexplore.ieee.org/document/10223730)
-* **Nov 2021**: 1 Paper (First Author) Accepted by **SAE International Journal of Connected and Automated Vehicles**: [Pedestrian Detection using roadside Lidar](https://www.sae.org/publications/technical-papers/content/12-04-04-0031/)
+* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS** 2023: [ProBio](https://nips.cc/virtual/2023/poster/73683).
+* **Aug 2023**: 1 Paper (First Author) Accepted by **IEEE Sensors Journal**: [FecNet](https://ieeexplore.ieee.org/document/10223730).
+* **Nov 2021**: 1 Paper (First Author) Accepted by **SAE International Journal of Connected and Automated Vehicles**: [Pedestrian Detection using roadside Lidar](https://www.sae.org/publications/technical-papers/content/12-04-04-0031/).
 
 ## Education and Internship
 
