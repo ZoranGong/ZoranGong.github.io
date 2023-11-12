@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: _pages/Publications.md
+    url: /Publications/
     
   - title: "CV"
-    url: _pages/Cv.md
+    url: /Cv/
 
