@@ -17,7 +17,7 @@ author_profile: true
 
 ## Brief Bio
 
-Hi! I'm Zoran Gong!Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the University of Bologna, Italy. I’m co-supervised by [Prof.Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and [Prof.Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at Beihang University. My research interests include computer vision, human activity understanding and SLAM.
+Hi! I'm Zoran Gong!Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the [University of Bologna](https://www.unibo.it/en), Italy. I’m co-supervised by [Prof.Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and [Prof.Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at [Beihang University](https://ev.buaa.edu.cn/). My research interests include computer vision, human activity understanding and SLAM.
 
 ### Research Interests
 
