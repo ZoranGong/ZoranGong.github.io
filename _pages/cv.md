@@ -15,7 +15,7 @@ header:
 
 {% include base_path %}
 
-[English Version CV](https://ZoranGong.github.io/assets/CV_Ziren Gong.pdf)
+[English Version CV](https://ZoranGong.github.io/assets/CV_ZirenGong.pdf)
 
 Education
 ======
