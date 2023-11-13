@@ -26,14 +26,14 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 
 ## News
 
-* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS** 2023: [ProBio](https://nips.cc/virtual/2023/poster/73683).
+* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS 2023**: [ProBio](https://nips.cc/virtual/2023/poster/73683).
 * **Aug 2023**: 1 Paper (First Author) Accepted by **IEEE Sensors Journal**: [FecNet](https://ieeexplore.ieee.org/document/10223730).
 * **Nov 2021**: 1 Paper (First Author) Accepted by **SAE International Journal of Connected and Automated Vehicles**: [Pedestrian Detection using roadside Lidar](https://www.sae.org/publications/technical-papers/content/12-04-04-0031/).
 
 ## Education and Internship
 
-* **PhD** in Engineering and Information Technology, University of Bologna, Now-2026
-* **Intern** in CoRe Lab, Peking University, 2022-2023
-* **Intern** in Beijing Tage IDriver Technology Co., Beijing, 2021-2022
-* **MSc** in Traffic Information Engineering and Control, Beihang University, 2020-2023
-* **BEng** in Traffic Engineering, Wuhan University of Technology, 2016-2020
+* **PhD** in Engineering and Information Technology, **University of Bologna**, Italy, **Now-2026**
+* **Research Intern** in CoRe Lab, **Peking University**, China, **2022-2023**
+* **Perception Algorithm Intern** in **Beijing Tage IDriver Technology Co.**, China, **2021-2022**
+* **MSc** in Traffic Information Engineering and Control, **Beihang University**, China, **2020-2023**
+* **BEng** in Traffic Engineering, **Wuhan University of Technology**, China, **2016-2020**
