@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziren Gong"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Computer Vision, Human Activity Recognition & SLAM Researcher"
   location         : "University of Bologna"
   email            : "ziren.gong@studio.unibo.it"
