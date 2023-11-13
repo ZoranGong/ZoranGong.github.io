@@ -32,8 +32,8 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 
 ## Education and Internship
 
-* **PhD** in Engineering and Information Technology, **University of Bologna**, Italy, **Now-2026**
-* **Research Intern** in CoRe Lab, **Peking University**, China, **2022-2023**
-* **Perception Algorithm Intern** in **Beijing Tage IDriver Technology Co.**, China, **2021-2022**
-* **MSc** in Traffic Information Engineering and Control, **Beihang University**, China, **2020-2023**
-* **BEng** in Traffic Engineering, **Wuhan University of Technology**, China, **2016-2020**
+* **PhD** in Engineering and Information Technology, **University of Bologna**, Italy, Now-2026
+* **Research Intern** in CoRe Lab, **Peking University**, China, 2022-2023
+* **Perception Algorithm Intern** in **Beijing Tage IDriver Technology Co.**, China, 2021-2022
+* **MSc** in Traffic Information Engineering and Control, **Beihang University**, China, 2020-2023
+* **BEng** in Traffic Engineering, **Wuhan University of Technology**, China, 2016-2020 
