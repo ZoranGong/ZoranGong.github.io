@@ -15,6 +15,8 @@ header:
 
 {% include base_path %}
 
+[English Version CV](https://ZoranGong.github.io/assets/CV_Ziren Gong.pdf)
+
 Education
 ======
 * Ph.D in Engineering and Information Technology, Bologna University, Italy, Now-2026
