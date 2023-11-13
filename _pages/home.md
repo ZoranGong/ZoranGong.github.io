@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/space.jpeg
+  overlay_image: images/image-alignment-1200x4002.jpg
 excerpt: "PhD Student at the University of Bologna<br><br>"
 author_profile: true
 
