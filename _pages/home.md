@@ -25,9 +25,9 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 * SLAM
 
 ## News
-* **Feb 2025**: 1 Paper is now Accepted by **ICRA 2025**: [HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM]
+* **Feb 2025**: 1 Paper is now Accepted by **ICRA 2025**: HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM
 * **March 2024**: 1 Paper is now available on **arXiv**: [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/pdf/2402.13255.pdf).
-* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS 2023**: [ProBio](https://nips.cc/virtual/2023/poster/73683).
+* **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS 2024**: [ProBio](https://nips.cc/virtual/2023/poster/73683).
 * **Aug 2023**: 1 Paper Accepted by **IEEE Sensors Journal**: [FecNet](https://ieeexplore.ieee.org/document/10223730).
 * **Nov 2021**: 1 Paper Accepted by **SAE International Journal of Connected and Automated Vehicles**: [Pedestrian Detection using roadside Lidar](https://www.sae.org/publications/technical-papers/content/12-04-04-0031/).
 
