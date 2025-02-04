@@ -16,7 +16,7 @@ header:
 ## Publications
 ### Conference
 
-* Ziren Gong, Fabio Tosi, Youmin Zhang, Stefano Mattoccia, Matteo Poggi, HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM, IEEE international conference on robotics and automation (ICRA), 2025.
+* **Ziren Gong**, Fabio Tosi, Youmin Zhang, Stefano Mattoccia, Matteo Poggi, HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM, IEEE international conference on robotics and automation (ICRA), 2025.
 * Jieming Cui^, **Ziren Gong^** (Co-first authors), Baoxiong Jia, Siyuan Huang, Zilong Zheng, Jianzhu Ma, Yixin Zhu. [ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab](https://nips.cc/virtual/2023/poster/73683), Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
 ### Journal
