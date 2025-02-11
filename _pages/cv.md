@@ -15,7 +15,6 @@ header:
 
 {% include base_path %}
 
-[English Version CV]()
 
 Education
 ======
