@@ -25,7 +25,7 @@ Education
 Internship
 ======
 * **2022-2023**: **Research Intern** in CoRe Lab at **Peking University**, Beijing, China
-  * Duties included: creating datasets, researching multimodal methods, writing papers
+  * Duties included: establishing dataset benchmarks, researching multimodal methods, writing papers
   * Supervisor: Yixin Zhu       Director: Yaqin Zhang
 
 * **2021-2022**: **Perception Algorithm Intern** in Computer Vision Group at **Beijing Tage IDriver Technology Co.**, Beijing, China
