@@ -18,8 +18,8 @@ header:
 
 Education
 ======
-* **Ph.D** in Engineering and Information Technology, Bologna University, Italy, **Now-2026**
-* **M.S** in Traffic Information Engineering and Control, Wuhan University of Technology, China, **2020-2023**
+* **Ph.D** in Computer Science, Bologna University, Italy, **Now-2026**
+* **M.S** in Traffic Information Engineering and Control, Beihang University, China, **2020-2023**
 * **B.S** in Traffic Engineering, Wuhan University of Technology, China, **2016-2020**
 
 Internship
