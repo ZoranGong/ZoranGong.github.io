@@ -16,15 +16,17 @@ author_profile: true
 
 ## Brief Bio
 
-Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the [University of Bologna](https://www.unibo.it/en), Italy. I’m co-supervised by Prof. [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and Prof. [Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at [Beihang University](https://ev.buaa.edu.cn/). My research interests include computer vision, human activity understanding and SLAM.
+Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the [University of Bologna](https://www.unibo.it/en), Italy. I’m co-supervised by Prof. [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and Prof. [Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at [Beihang University](https://ev.buaa.edu.cn/). My research interests include computer vision, 3D recosntruction and multimodal learning. Welcome to find more infos at [Google Scholar](https://scholar.google.com/citations?user=rF-i-GAAAAAJ&hl=zh-CN)!
 
 ### Research Interests
 
-* Computer Vision (especially on Object Detection and Human Object Interaction)
+* 3D Reconstruction
 * Human activity understanding (especially on multimodel human action recognition)
-* Visual SLAM & 3D reconstruction
+* Visual SLAM
 
 ## News
+* **Feb 2026**: 1 Paper Accepted by **CVPR 2026**: [Ov3R](https://arxiv.org/abs/2507.22052).
+* **July 2025**: 1 Paper is now available on **arXiv**: [DINO-SLAM](https://arxiv.org/abs/2507.19474).
 * **Feb 2025**: 1 Paper Accepted by **ICRA 2025**: [HS-SLAM](https://zorangong.github.io/HS-SLAM/).
 * **March 2024**: 1 Paper is now available on **arXiv**: [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/pdf/2402.13255.pdf).
 * **Sept 2023**: 1 Paper (Co-first Author) Accepted by **NeurIPS 2024**: [ProBio](https://nips.cc/virtual/2023/poster/73683).
@@ -34,8 +36,8 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 
 ## Education and Internship
 
-* **PhD** in Computer Science, **University of Bologna**, Italy, Now-2026
-* **Research Intern** in CoRe Lab, **Peking University**, China, 2022-2023
-* **Perception Algorithm Intern** in **Beijing Tage IDriver Technology Co.**, China, 2021-2022
-* **MSc** in Traffic Information Engineering and Control, **Beihang University**, China, 2020-2023
-* **BEng** in Traffic Engineering, **Wuhan University of Technology**, China, 2016-2020 
+* **PhD** in Computer Science, **University of Bologna**, Italy
+* **Research Intern** in CoRe Lab, **Peking University**, China
+* **Perception Algorithm Intern** in **Beijing Tage IDriver Technology Co.**, China
+* **MSc** in Traffic Information Engineering and Control, **Beihang University**, China
+* **BEng** in Traffic Engineering, **Wuhan University of Technology**, China
