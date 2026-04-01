@@ -16,7 +16,7 @@ author_profile: true
 
 ## Brief Bio
 
-Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the [University of Bologna](https://www.unibo.it/en), Italy. I’m co-supervised by Prof. [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and Prof. [Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at [Beihang University](https://ev.buaa.edu.cn/). My research interests include computer vision, 3D recosntruction and multimodal learning. Welcome to find more infos at [Google Scholar](https://scholar.google.com/citations?user=rF-i-GAAAAAJ&hl=zh-CN)!
+Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://phd.unibo.it/eit4semm/en) at the [University of Bologna](https://www.unibo.it/en), Italy. I’m co-supervised by Prof. [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and Prof. [Matteo Poggi](https://mattpoggi.github.io/). Before this, I received my Master's degree at [Beihang University](https://ev.buaa.edu.cn/). My research interests include computer vision, 3D recosntruction and multimodal learning. I'm also serving as reviewers at IEEE TRO, IJCV, CVPR, NeurlIPS, ICCV, ECCV, etc. Welcome to find more infos at [Google Scholar](https://scholar.google.com/citations?user=rF-i-GAAAAAJ&hl=zh-CN)!
 
 ### Research Interests
 
