@@ -25,7 +25,7 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 * Visual SLAM
 
 ## News
-* **Feb 2026**: 1 Paper Accepted by **CVPR 2026**: [Ov3R](https://arxiv.org/abs/2507.22052).
+* **Feb 2026**: 1 Paper Accepted as **CVPR 2026 Highlight**: [Ov3R](https://arxiv.org/abs/2507.22052).
 * **July 2025**: 1 Paper is now available on **arXiv**: [DINO-SLAM](https://arxiv.org/abs/2507.19474).
 * **Feb 2025**: 1 Paper Accepted by **ICRA 2025**: [HS-SLAM](https://zorangong.github.io/HS-SLAM/).
 * **March 2024**: 1 Paper is now available on **arXiv**: [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/pdf/2402.13255.pdf).
