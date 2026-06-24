@@ -25,7 +25,8 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 * Visual SLAM
 
 ## News
-* **June 2026**: 1 Paper Accepted as by **ECCV 2026**!
+* **June 2026**: 1 Paper Accepted by **ECCV 2026**: MAGiSt3R!
+* **June 2026**: 1 Paper is now available on **openreview**: [4D Dynamic Scene Reconstruction: A Comprehensive Survey](https://openreview.net/pdf?id=7Y8LqUSdVS).
 * **May 2026**: Admitted as **CVPR 2026 Outstanding Reviewer** (Top 5%)!
 * **Feb 2026**: 1 Paper Accepted as **CVPR 2026 Highlight**: [Ov3R](https://arxiv.org/abs/2507.22052).
 * **July 2025**: 1 Paper is now available on **arXiv**: [DINO-SLAM](https://arxiv.org/abs/2507.19474).
