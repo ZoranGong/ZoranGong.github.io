@@ -20,9 +20,9 @@ Hi! I'm Zoran Gong! Currently, I am on the PhD programme in [EIT4SEMM](https://p
 
 ### Research Interests
 
-* 3D Reconstruction
+* Spatial AI
 * Human activity understanding (especially on multimodel human action recognition)
-* Visual SLAM
+* 3D Reconstruction and Visual SLAM
 
 ## News
 * **June 2026**: 1 Paper Accepted by **ECCV 2026**: MAGiSt3R!
